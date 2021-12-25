@@ -20,4 +20,3 @@
   类型名称 item = (类型名称) objectInputStream.readObject();
   ```
 
-### 
